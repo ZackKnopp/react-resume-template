@@ -3,114 +3,84 @@
     "name":"Zachary Knopp",
     "description":"I'm a creator who is fascinated by motion. I think agile robotics will pave the way to adaptable automation and I want to be one of the people driving it.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"At heart, I am a maker. I like transforming ideas into tangible creations. For my master’s thesis, I built computer vision algorithms to reduce waste in industrial potato peeling processes. I have also developed several robotic platforms for controls research. Lately, I have been building scalable web applications that enable businesses to make data-driven management decisions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "zack.knopp@unb.ca",
+    "phone": "506-259-8897",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"39 Bulman Drive",
+      "city":"Moncton",
+      "state":"NB",
+      "zip": "E1G 1G9"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.zknopp.com",
+    "resumedownload": "https://drive.google.com/file/d/1VsS4ra4zEHJGlUPLSHW0LO4z46anz53G/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/profile.php?id=100006724546912",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
+        "name": "stackoverflow",
+        "url": "https://stackoverflow.com/users/5631798/zack-knopp",
+        "className": "fa fa-stack-overflow"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/ZackKnopp",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of New Brunswick",
+        "degree":"Master of Science in Mechanical Engineering",
+        "graduated":"May 2016",
+        "description":"I was given the opportunity to explore my interests, which led me to performing research in computer vision and robotics. My thesis work involved creating computer vision algorithms for reducing waste in industrial potato peeling processes. Also during my degree, I received an NSERC award, I wrote three conference papers, acted as a teaching assistant for multiple courses, and built a two-wheeled, inverted pendulum robot from the ground up."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"University of New Brunswick",
+        "degree":"Bachelor of Science in Mechanical Engineering",
+        "graduated":"May 2014",
+        "description":"At the start of my degree, I joined the varsity soccer team and we won our division, which sent us to nationals. Then I started running on the track team and I became a CIS Academic All-Canadian. I also spent some time working on the Formula SAE team, although we never got to competition. In my fourth year, I became a research assistant for Dr. Rickey Dubay, who mentored my senior design team as we built a pick-and-place robotic arm."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Symplicity Designs",
+        "title":"Senior Software Engineer",
+        "years":"Nov 2016 - Present",
+        "description":"At Symplicity, I developed an application that enables businesses to make data-driven management decisions. Duties included decided on the tech stacks, designed UI/UX and built the database, server and client layers."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Cold Furnace Studios",
+        "title": "Software Developer",
+        "years": "Jul 2016 - Nov 2016",
+        "description": "At Cold Furnace Studios, I assembled a playable demo as the foundation for a AAA video game. I also developed coding standards, naming conventions and branching strategies so the project would be maintainable."
+      },
+      {
+        "company":"Kendrion GmbH",
+        "title":"R&D Engineering Intern",
+        "years":"Apr 2013 - Sep 2013",
+        "description":"At Kendrion, I designed several production tools. Work included realizing the problem, planning a concept, building SolidWorks models, creating detailed engineering drawings and communicating with technicians to ensure proper construction."
       }
     ],
+    "skillmessage": "I like to tinker with things, learning as I go. These are some of the skills and technologies that have stuck with me.",
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "title":"Computer:",
+        "skills":"MATLAB, Python, C/C++, Linux, Javascript, HTML, CSS, Reactjs, Angularjs, Google Cloud Suite, Firebase, OAuth, SQL, Git, SVN, Unity Engine, Unreal Engine."
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "title": "Analytical:",
+        "skills": "Electromechanical design, control law derivation, system identification, predictive control, computer vision algorithm development, troubleshooting robotic systems, UI/UX, app development."
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "title": "Familiar With:",
+        "skills": "Deep learning using Numpy and Theano, OpenCV. Currently taking courses on ROS."
       }
     ]
   },
