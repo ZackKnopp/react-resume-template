@@ -3,7 +3,7 @@
     "name":"Zachary Knopp",
     "description":"I'm a creator who is fascinated by motion. I think agile robotics will pave the way to adaptable automation and I want to be one of the people driving it.",
     "image":"profilepic.jpg",
-    "bio":"At heart, I am a maker. I like transforming ideas into tangible creations. For my master’s thesis, I built computer vision algorithms to reduce waste in industrial potato peeling processes. I have also developed several robotic platforms for controls research. Lately, I have been building scalable web applications that enable businesses to make data-driven management decisions.",
+    "bio":"I like transforming ideas into tangible creations. For my master’s thesis, I built computer vision algorithms to reduce waste in industrial potato peeling processes. I have also developed several robotic platforms for controls research. Lately, I have been building scalable web applications that enable businesses to make data-driven management decisions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "zack.knopp@unb.ca",
     "phone": "506-259-8897",
@@ -53,7 +53,7 @@
         "company":"Symplicity Designs",
         "title":"Senior Software Engineer",
         "years":"Nov 2016 - Present",
-        "description":"At Symplicity, I developed an application that enables businesses to make data-driven management decisions. Duties included decided on the tech stacks, designed UI/UX and built the database, server and client layers."
+        "description":"At Symplicity, I developed an application that enables businesses to make data-driven management decisions. Duties included deciding on the tech stacks, designing the UI/UX and building the database, server and client layers."
       },
       {
         "company": "Cold Furnace Studios",
@@ -80,7 +80,7 @@
       },
       {
         "title": "Familiar With:",
-        "skills": "Deep learning using Numpy and Theano, OpenCV. Currently taking courses on ROS."
+        "skills": "Deep learning using Numpy and Theano, OpenCV. Currently taking courses on ROS and underactuated robotics."
       }
     ]
   },
