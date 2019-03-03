@@ -87,8 +87,14 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Two-Wheeled Bot",
+        "category":"Designed and built a two-wheeled inverted pendulum robot as a test bed for nonlinear controllers.",
+        "image":"two-wheeled.gif",
+        "url":"https://youtu.be/A6PbrQNAqtk"
+      },
+      {
         "title":"Haptic Maze",
-        "category":"Investigating learning by feeling using a force-feedback maze.",
+        "category":"Investigated how people learn through touch, using a force feedback maze.",
         "image":"haptic-maze.gif",
         "url":"https://docs.google.com/presentation/d/e/2PACX-1vQpu-T4ulP2rUTLbGEaYIuTKmXFCG1f42zYkrntQl7eDVDAJJpJLsibVZMTR41z23H--Q0r2aTLF1DO/pub?start=false&loop=false&delayms=3000"
       },
