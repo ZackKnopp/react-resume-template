@@ -14,7 +14,7 @@
       "zip": "E1G 1G9"
     },
     "website": "https://www.zknopp.com",
-    "resumedownload": "https://drive.google.com/file/d/1VsS4ra4zEHJGlUPLSHW0LO4z46anz53G/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1yeabzegr4R1HUUFmO8MYN_-yvWJNV9wY/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -87,34 +87,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Haptic Maze",
+        "category":"Investigating learning by feeling using a force-feedback maze.",
+        "image":"haptic-maze.gif",
+        "url":"https://docs.google.com/presentation/d/e/2PACX-1vQpu-T4ulP2rUTLbGEaYIuTKmXFCG1f42zYkrntQl7eDVDAJJpJLsibVZMTR41z23H--Q0r2aTLF1DO/pub?start=false&loop=false&delayms=3000"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Wall-Following Robots",
+        "category":"Created simple wall-following robots for an engineering course.",
+        "image":"wall-following-robot.jpg",
+        "url":"https://www.youtube.com/watch?v=spNo7-IWcVI&list=PLBJZoQiK4dllhXff1PXucHwWSMKwOfE_H"
       }
     ]
   },
