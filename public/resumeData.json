@@ -87,10 +87,22 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Potato Peeling",
+        "category":"Developed algorithms to analyze peeled potatos as a first step towards closed-loop control of an industrial potato peeler.",
+        "image":"potatoes.gif",
+        "url":"https://youtu.be/EIToCavY4bA"
+      },
+      {
         "title":"Two-Wheeled Bot",
         "category":"Designed and built a two-wheeled inverted pendulum robot as a test bed for nonlinear controllers.",
         "image":"two-wheeled.gif",
         "url":"https://youtu.be/A6PbrQNAqtk"
+      },
+      {
+        "title":"Visual Control of a Robotic Arm",
+        "category":"Controlled a robotic arm using a camera to overcome the negative effects of backlash.",
+        "image":"visual-control.png",
+        "url":"https://docs.google.com/presentation/d/e/2PACX-1vTiDjAom7zZDKHWItDwoayXxKlFMFliYRd4P39OpfqZELB4mMZDYmsh5Iv8DUtuY1OUb4WnE4HDPEfJ/pub?start=false&loop=false&delayms=3000"
       },
       {
         "title":"Haptic Maze",
@@ -99,9 +111,15 @@
         "url":"https://docs.google.com/presentation/d/e/2PACX-1vQpu-T4ulP2rUTLbGEaYIuTKmXFCG1f42zYkrntQl7eDVDAJJpJLsibVZMTR41z23H--Q0r2aTLF1DO/pub?start=false&loop=false&delayms=3000"
       },
       {
-        "title":"Wall-Following Robots",
-        "category":"Created simple wall-following robots for an engineering course.",
-        "image":"wall-following-robot.jpg",
+        "title":"2.5DOF Manipulator",
+        "category":"Designed, fabricated and controlled a 2DOF robotic manipulator with a pneumatic gripper.",
+        "image":"2dof.jpg",
+        "url":"https://drive.google.com/file/d/1jhpwhYcdwSQPc9HZFSuMkm-_aBhhXmyW/view?usp=sharing"
+      },
+      {
+        "title":"Wall-Following Robot",
+        "category":"Created a simple wall-following robot for ECE4333.",
+        "image":"wall-follower.gif",
         "url":"https://www.youtube.com/watch?v=spNo7-IWcVI&list=PLBJZoQiK4dllhXff1PXucHwWSMKwOfE_H"
       }
     ]
