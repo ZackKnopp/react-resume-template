@@ -261,6 +261,11 @@
    /* ----------------------------------------------------------------- */
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
+   .portfolio-item {
+    margin-left: auto;
+    margin-right: auto;
+    width: 270px!important;
+   }
 
 
    /* Testimonials Section
