@@ -3,7 +3,7 @@
     "name":"Zachary Knopp",
     "description":"I'm a creator who is fascinated by motion. I think agile robotics will pave the way to adaptable automation and I want to be one of the people driving it.",
     "image":"profilepic.jpg",
-    "bio":"I like transforming ideas into tangible creations. For my master’s thesis, I built computer vision algorithms to reduce waste in industrial potato peeling processes. I have also developed several robotic platforms for controls research. Lately, I have been building scalable web applications that enable businesses to make data-driven management decisions.",
+    "bio":"I like transforming ideas into tangible creations. Lately, I have been building low-power remote sensor systems in C++, for use in the Canadian wilderness. For my master’s thesis, I built computer vision algorithms in Python to reduce waste in industrial potato peeling processes. I also developed several robotic platforms for controls research in C++. After my degree, I spent time building scalable web applications that enabled businesses to make data-driven management decisions.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "zachary@zknopp.com",
     "phone": "+1 (506) 259-8897",
@@ -86,6 +86,12 @@
   },
   "portfolio":{
     "projects": [
+      {
+        "title":"ROAMS",
+        "category":"Developed a low-power remote sensing system deployed to the Canadian wilderness.",
+        "image":"roams.png",
+        "url":"https://drive.google.com/file/d/1rbXv9h5_W84TK_HYeYSSv64lcyYcxv9U/view?usp=sharing"
+      },
       {
         "title":"Potato Peeling",
         "category":"Developed algorithms to analyze peeled potatos as a first step towards closed-loop control of an industrial potato peeler.",
