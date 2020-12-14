@@ -8,18 +8,18 @@
     "email": "zachary@zknopp.com",
     "phone": "+1 (506) 259-8897",
     "address":{
-      "street":"39 Bulman Drive",
-      "city":"Moncton",
+      "street":"284 Duke Street West",
+      "city":"Saint John",
       "state":"NB",
-      "zip": "E1G 1G9"
+      "zip": "E2M 1T8"
     },
     "website": "https://www.zknopp.com",
     "resumedownload": "https://drive.google.com/file/d/1KhMGBaNEHWemhe6DwhOl0_EsELUR9mUX/view?usp=sharing",
     "social":[
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/profile.php?id=100006724546912",
-        "className":"fa fa-facebook"
+        "name":"linkedin",
+        "url":"http://LinkedIn.com/in/zachary-knopp",
+        "className":"fa fa-linkedin"
       },
       {
         "name": "stackoverflow",
@@ -91,6 +91,12 @@
         "category":"Developed a low-power remote sensing system deployed to the Canadian wilderness.",
         "image":"roams.png",
         "url":"https://drive.google.com/file/d/1rbXv9h5_W84TK_HYeYSSv64lcyYcxv9U/view?usp=sharing"
+      },
+      {
+        "title":"P3A App",
+        "category":"Built a web app that provides users with a way to tag their data to create a management view of their accounting books.",
+        "image":"p3a.gif",
+        "url": "https://drive.google.com/file/d/1Yi46U11zRHv-WsN1yDFA9ahX1_QBg6fc/view?usp=sharing"
       },
       {
         "title":"Potato Peeling",
